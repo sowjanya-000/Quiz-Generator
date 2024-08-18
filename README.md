@@ -2,7 +2,9 @@ To Run this Quiz Generator, download the repository in local and make sure to to
 however make sure to install the ones that fail . 
 
 Front End: HTML,CSS.
-Folders- Static
+Folders- Static and templates contain the front end code.
+
+The py files contain the functional code.
 
 Run the app.py file and navigate to the connection the code opens,open it in the browser. 
 
