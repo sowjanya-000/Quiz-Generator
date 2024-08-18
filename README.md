@@ -1,6 +1,9 @@
 To Run this Quiz Generator, download the repository in local and make sure to to have all the depedencies mentioned in requirements.txt file. Importing the project would start installing all the dependencies
 however make sure to install the ones that fail . 
 
+Front End: HTML,CSS.
+Folders- Static
+
 Run the app.py file and navigate to the connection the code opens,open it in the browser. 
 
 Following is the landig page, here click "Choose a file" and submit
