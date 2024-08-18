@@ -9,6 +9,7 @@ Following is the landig page, here click "Choose a file" and submit
 ![image](https://github.com/user-attachments/assets/749b1151-1281-4211-8611-cbb00c83e803)
 
 The image below shows it processing the file(convert pdf to text and run the learnign model to summarize and generate the question with correct and incorrect answers to it)
+
 ![image](https://github.com/user-attachments/assets/72cc62e9-e121-49be-a7c7-39efe37c01fa)
 
 ![image](https://github.com/user-attachments/assets/c598b9a1-86cc-4e36-a466-670219d98bca)
