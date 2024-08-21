@@ -1,3 +1,21 @@
+**Key Features:**
+
+**Instant Quiz Creation:** Upload any text or PDF file, and our tool will automatically generate a comprehensive quiz based on the content. This helps students reinforce their learning and prepare effectively for exams.
+
+**Customizable Exams:** Tailor the generated quiz to focus on specific areas or types of questions, ensuring the assessment aligns with the learning objectives.
+
+**Interactive and Engaging:** The quizzes are designed to be interactive, making studying more engaging and less monotonous. Students can get immediate feedback on their answers, helping them identify areas that need further review.
+
+**Versatile Use Cases:** Whether you’re a student trying to gauge your understanding of a topic or a professor assessing your students’ knowledge, this tool adapts to your needs.
+
+**Insightful Analytics:** Professors can track student performance and understanding over time, providing valuable insights into class progress and areas that might need more attention.
+
+**Why Use Our Quiz Generator?**
+
+**For Students:** Enhance your exam preparation by converting your study materials into quizzes. It's an effective way to test your knowledge and ensure you're ready for the big day.
+
+**For Educators:** Simplify the process of creating exams and quizzes. Easily evaluate your students' understanding of the material and identify who might need extra help.
+
 To Run this Quiz Generator, download the repository in local and make sure to to have all the depedencies mentioned in requirements.txt file. Importing the project would start installing all the dependencies
 however make sure to install the ones that fail . 
 
